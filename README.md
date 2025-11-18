@@ -174,6 +174,3 @@ This project is open-source under the MIT License.
 **Ravi L**
 Built with ❤️ using LangChain + Ollama
 
-```
-
----
